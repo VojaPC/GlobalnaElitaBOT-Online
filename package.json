@@ -1,0 +1,19 @@
+{
+  "name": "globalnaelita-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VojaST",
+  "license": "ISC",
+  "dependencies": {
+    "better-discord-antispam": "^2.0.0",
+    "discord-anti-spam": "^2.4.1",
+    "discord-welcome": "^1.5.0",
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
